@@ -1,0 +1,21 @@
+.card{
+    background-color: rgb(41, 102, 177);
+    height: 150px;
+    width: 180px;
+    margin: 15px;
+    margin-bottom: 0% !important;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+#content{
+    color:rgb(231, 234, 19);
+}
+#prod-name{
+    margin: 0%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}

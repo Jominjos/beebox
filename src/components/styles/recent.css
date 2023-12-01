@@ -1,0 +1,7 @@
+.recent{
+    /* background-color: aquamarine; */
+    max-height: 190px;
+    /* overflow-y: auto; */
+    overflow-x: auto;
+    overflow-wrap: normal;
+}

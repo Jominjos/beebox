@@ -1,0 +1,12 @@
+.home{
+    margin: 20px;
+    background-color: rgb(100, 143, 208);
+    /* background-color: coral; */
+    padding: 20px;
+    width: 100%;
+    border-radius: 20px;
+    min-width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

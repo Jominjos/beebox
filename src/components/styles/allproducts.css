@@ -1,0 +1,11 @@
+.allproducts{
+    /* background-color: rgb(75, 33, 25); */
+    height:min-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow-x: auto;
+    min-height: 200px;
+    /* height: 50vh; */
+    
+}

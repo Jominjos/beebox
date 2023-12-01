@@ -1,0 +1,15 @@
+.controls{
+    display: flex;
+    flex-direction: column;
+    margin-top:10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+.flex>h4{
+    color: white;
+    margin: 5px;
+}

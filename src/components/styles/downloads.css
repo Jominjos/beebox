@@ -1,0 +1,20 @@
+.downloads{
+    display: flex;
+flex-direction: column;
+
+}
+#download-txt{
+    text-align: center;
+    margin-top: 10px;
+   margin-bottom: 0%;
+    color: #ffffff;
+}
+.download-box{
+    height: 20vh;
+    background-color:#013B84;
+    border-radius: 20px;
+    overflow-y: scroll;
+}
+.download-box>ul{
+    color: white;
+}

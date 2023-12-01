@@ -1,0 +1,23 @@
+.favorites{
+    display: flex;
+flex-direction: column;
+
+}
+#fav-txt{
+    text-align: center;
+   margin-bottom: 0%;
+    color: #ffffff;
+    letter-spacing: 5px;
+}
+.fav-box{
+    height: 39vh;
+    background-color: #013B84;
+    border-radius: 20px;
+    overflow-y: scroll;
+}
+.fav-box>ul{
+    color: white;
+}
+.fav-box>ul>a{
+    color: white;
+}

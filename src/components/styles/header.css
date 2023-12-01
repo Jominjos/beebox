@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    margin-top: 22px;
+   
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+}
+.d-flex-col{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.searches{
+    justify-content: space-around;
+    width: 100%;
+}
